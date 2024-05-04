@@ -102,3 +102,7 @@ Você pode conferir [o repositório do Strapi no GitHub](https://github.com/stra
 [Youtube](https://www.youtube.com/@juniorvopj)
 [Spotify](https://open.spotify.com/intl-pt/artist/473rn7GqFrubHex9n7uCjz)
 [X](https://twitter.com/juniorvopj)
+
+# 📝 Licença
+
+[MIT License](LICENSE.md)
