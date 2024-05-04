@@ -96,6 +96,7 @@ Você pode conferir [o repositório do Strapi no GitHub](https://github.com/stra
 # Contatos (Contacts)
 
 [Site](https://vilmojr.com)
+[OrcID](https://orcid.org/0000-0001-8912-2538)
 [Linkedin](https://www.linkedin.com/in/juniorvopj/)
 [Instagram](https://www.instagram.com/junior.vopj)
 [Youtube](https://www.youtube.com/@juniorvopj)
