@@ -103,6 +103,10 @@ Você pode conferir [o repositório do Strapi no GitHub](https://github.com/stra
 [Spotify](https://open.spotify.com/intl-pt/artist/473rn7GqFrubHex9n7uCjz)
 [X](https://twitter.com/juniorvopj)
 
+<br/>
+
+<br/>
+
 # 📝 Licença
 
 [MIT License](LICENSE.md)
