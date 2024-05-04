@@ -93,6 +93,14 @@ Para saber mais sobre o Strapi, dê uma olhada nos seguintes recursos:
 
 Você pode conferir [o repositório do Strapi no GitHub](https://github.com/strapi) - seus comentários e contribuições são bem-vindos!
 
+# 📝 Licença
+
+<br/>
+
+<br/>
+
+[MIT License](LICENSE.md)
+
 # Contatos (Contacts)
 
 [Site](https://vilmojr.com)
@@ -102,11 +110,3 @@ Você pode conferir [o repositório do Strapi no GitHub](https://github.com/stra
 [Youtube](https://www.youtube.com/@juniorvopj)
 [Spotify](https://open.spotify.com/intl-pt/artist/473rn7GqFrubHex9n7uCjz)
 [X](https://twitter.com/juniorvopj)
-
-<br/>
-
-<br/>
-
-# 📝 Licença
-
-[MIT License](LICENSE.md)
