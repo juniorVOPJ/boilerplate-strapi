@@ -97,9 +97,7 @@ Você pode conferir [o repositório do Strapi no GitHub](https://github.com/stra
 
 [MIT License](LICENSE.md)
 
-<br/>
-
-<br/>
+<br/><br/>
 
 # Contatos (Contacts)
 
