@@ -95,11 +95,11 @@ Você pode conferir [o repositório do Strapi no GitHub](https://github.com/stra
 
 # 📝 Licença
 
-<br/>
-
-<br/>
-
 [MIT License](LICENSE.md)
+
+<br/>
+
+<br/>
 
 # Contatos (Contacts)
 
